@@ -1,0 +1,41 @@
+.container {
+	margin: 208px auto;
+	display: table;
+	width: 578px;
+	height: 200px;
+}
+
+svg {
+	width:121px;
+	position: absolute;
+	margin-left: 80px;
+	  
+	animation: slide 2s ease-in-out infinite;
+	-o-animation: slide 2s ease-in-out infinite;
+	-moz-animation: slide 2s ease-in-out infinite;
+	-webkit-animation: slide 2s ease-in-out infinite;
+}
+
+@keyframes slide {
+	50% {
+		margin-left: 377px;
+	}
+}
+
+@-o-keyframes slide {
+	50% {
+		margin-left: 377px;
+	}
+}
+
+@-moz-keyframes slide {
+	50% {
+		margin-left: 377px;
+	}
+}
+
+@-webkit-keyframes slide {
+	50% {
+		margin-left: 377px;
+	}
+}
