@@ -1,0 +1,44 @@
+.container {
+	margin: 208px auto;
+	display: table;
+	width: 578px;
+	height: 200px;
+}
+
+.svg-contain {
+	width:121px;
+	transform: translate3d(80px,0,0);
+	-o-transform: translate3d(80px,0,0);
+	-ms-transform: translate3d(80px,0,0);
+	-moz-transform: translate3d(80px,0,0);
+	-webkit-transform: translate3d(80px,0,0);
+	  
+	animation: slide 2s ease-in-out infinite;
+	-o-animation: slide 2s ease-in-out infinite;
+	-moz-animation: slide 2s ease-in-out infinite;
+	-webkit-animation: slide 2s ease-in-out infinite;
+}
+
+@keyframes slide {
+	50% {
+		transform: translate3d(377px,0,0);
+	}
+}
+
+@-o-keyframes slide {
+	50% {
+		-o-transform: translate3d(377px,0,0);
+	}
+}
+
+@-moz-keyframes slide {
+	50% {
+		-moz-transform: translate3d(377px,0,0);
+	}
+}
+
+@-webkit-keyframes slide {
+	50% {
+		-webkit-transform: translate3d(377px,0,0);
+	}
+}

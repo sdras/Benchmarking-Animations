@@ -1,0 +1,13 @@
+.container {
+	margin: 208px auto;
+	display: table;
+	width: 578px;
+	height: 200px;
+}
+
+.svg-contain {
+	transform: translate3d(80px, 0 0);
+	-o-transform: translate3d(80px, 0 0);
+	-moz-transform: translate3d(80px, 0 0);
+	-webkit-transform: translate3d(80px, 0 0);
+}

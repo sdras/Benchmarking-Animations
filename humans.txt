@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sarah Drasner -- Author -- @sarah_edo
+
+# THANKS
+
+    Julian Shapiro
+    Kyle Kingsbury
+    Dave Smith
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Canvas, SMIL, Velocity, Normalize.css
