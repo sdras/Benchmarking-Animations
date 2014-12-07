@@ -15,14 +15,15 @@
         
         <div class="container">
             <svg width="578" height="200"><rect id="blue-rect" x="12.3" y="10.2" fill="#49937F" stroke="#3F7C6B" stroke-width="5" stroke-miterlimit="10" width="100" height="50"/>
-            <animate
+            <animateTransform
               xlink:href="#blue-rect"
-               attributeName="x" 
-               from="80"
-               to="377" 
+               attributeName="transform" 
+               type="translate" 
+               from="0 0 0"
+               to="377 0 0" 
                dur="2s"
                begin="0s"
-               values="80; 377; 80"
+               values="0; 377; 0"
                repeatCount="indefinite"
                keySplines=".42 0 .58 1;"
                fill="freeze" 
