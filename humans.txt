@@ -9,8 +9,9 @@
 
     Julian Shapiro
     Kyle Kingsbury
+    Jack Doyle
     Dave Smith
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5, Canvas, SMIL, Velocity, Normalize.css
+    CSS3, HTML5, Canvas, SMIL, Velocity, GSAP, Normalize.css

@@ -6,10 +6,7 @@
 }
 
 svg {
-	width:121px;
-	position: absolute;
-	margin-left: 80px;
-	  
+	position: absolute;	  
 	animation: slide 2s ease-in-out infinite;
 	-o-animation: slide 2s ease-in-out infinite;
 	-moz-animation: slide 2s ease-in-out infinite;
